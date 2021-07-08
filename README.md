@@ -1,3 +1,1 @@
-A recreation of the Instagram homepage, specifically the login/sign-up page as part of my project to recreate several social media websites.
-
-<a href="https://cwang1996.github.io/Instagram-Homepage/">Live Demo</a>
+This is <a href="https://cwang1996.github.io/Instagram-Homepage/">Day 19</a> of my 30 Websites in 30 Days project.
